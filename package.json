@@ -18,7 +18,7 @@
   "bugs": {
     "url": ""
   },
-  "homepage": "",
+  "homepage": "https://sathvik987.github.io/portfolio/",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
